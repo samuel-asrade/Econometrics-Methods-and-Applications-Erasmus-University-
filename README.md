@@ -1,4 +1,4 @@
-## Course Name: 
+## Course: 
 - Econometrics: Methods and Applications
 
 ## University: 
